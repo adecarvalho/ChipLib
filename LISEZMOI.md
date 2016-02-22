@@ -1,3 +1,3 @@
 ChipLib en version 3
-Ma bibliotheque de fonction pour arduino
+Ma bibliotheque de fonctions pour arduino
 
