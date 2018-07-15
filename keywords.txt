@@ -37,8 +37,8 @@ isMusicFinish	KEYWORD3
 #######################################
 # Constants (LITERAL1)
 #######################################
-PULL_UP_ENABLE		LITERAL1
-PULL_UP_DISABLE		LITERAL1
+PULL_UP_ENABLE	LITERAL1
+PULL_UP_DISABLE	LITERAL1
 
 
 
